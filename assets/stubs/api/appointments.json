@@ -1,0 +1,79 @@
+{
+  "appointments": [
+    {
+      "id": 34,
+      "date": "10 Jan",
+      "time": "10.30 AM",
+      "doctor": {
+        "name": "Sourabh",
+        "profileImage": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+        "speciality": "Dental",
+        "patients": "1000",
+        "experienceInYears": "10",
+        "rating": "4.5",
+        "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "reviews": "100"
+      }
+    },
+    {
+      "id": 2,
+      "date": "10 Jan",
+      "time": "10.30 AM",
+      "doctor": {
+        "name": "Sourabh",
+        "profileImage": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+        "speciality": "Dental",
+        "patients": "1000",
+        "experienceInYears": "10",
+        "rating": "4.5",
+        "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "reviews": "100"
+      }
+    },
+    {
+      "id": 3,
+      "date": "10 Jan",
+      "time": "10.30 AM",
+      "doctor": {
+        "name": "Sourabh",
+        "profileImage": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+        "speciality": "Dental",
+        "patients": "1000",
+        "experienceInYears": "10",
+        "rating": "4.5",
+        "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "reviews": "100"
+      }
+    },
+    {
+      "id": 4,
+      "date": "10 Jan",
+      "time": "10.30 AM",
+      "doctor": {
+        "name": "Sourabh",
+        "profileImage": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+        "speciality": "Dental",
+        "patients": "1000",
+        "experienceInYears": "10",
+        "rating": "4.5",
+        "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "reviews": "100"
+      }
+    },
+    {
+      "id": 5,
+      "date": "10 Jan",
+      "time": "10.30 AM",
+      "doctor": {
+        "name": "Sourabh",
+        "profileImage": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+        "speciality": "Dental",
+        "patients": "1000",
+        "experienceInYears": "10",
+        "rating": "4.5",
+        "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "reviews": "100"
+      }
+    }
+  ]
+}

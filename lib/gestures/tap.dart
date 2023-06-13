@@ -1,0 +1,1 @@
+typedef TimeSelectionCallback = void Function(String val);
